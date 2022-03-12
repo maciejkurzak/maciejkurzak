@@ -3,11 +3,16 @@
 
 **I'm Maciej** - front-end developer, designer and technical high school student. I'm interested in all creative work, GTA V RolePlay and automotive enthusiast.
 
-## Design
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,ae,figma)](https://skillicons.dev)
+<h1 align="center">🎨 Design</h1>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma"/>
+<div>
+  
+<h1 align="center">🔧 Development</h1>
 
-## Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,jquery,docker,git,react,vue,lua,php,mysql,svg,linux)](https://skillicons.dev)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,jquery,docker,git,react,vue,lua,php,mysql,svg,linux"/>
+<div>
 
 
 
