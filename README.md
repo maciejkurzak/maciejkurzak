@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/29491322/158017321-2eb04161-6400-4eea-938b-ed201b42345c.gif" width="30px"> Hi there
 
 
-**I'm Maciej** - front-end developer, designer and technical high school student. I'm interested in all creative work, GTA V RolePlay and automotive enthusiast.
+<b>I'm Maciej</b> - front-end developer, designer and technical high school student. I'm interested in all creative work, GTA V RolePlay and automotive enthusiast.</p>
 
 <h1 align="center">🎨 Design</h1>
 <div align="center">
@@ -13,9 +13,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,jquery,docker,git,react,vue,lua,php,mysql,svg,linux"/>
 <div>
-
+  
+  
 <br/><br/>
-![Metrics](https://metrics.lecoq.io/maciejkurzak?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Europe%2FWarsaw)
+<img src="https://github-readme-stats.vercel.app/api?username=maciejkurzak&count_private=true&show_icons=true&theme=github_dark"/> <img src="https://metrics.lecoq.io/maciejkurzak?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Europe%2FWarsaw"/>
 
 
 
