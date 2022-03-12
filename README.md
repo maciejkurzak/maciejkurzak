@@ -14,7 +14,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,jquery,docker,git,react,vue,lua,php,mysql,svg,linux"/>
 <div>
 
-
+<br/><br/>
+![Metrics](https://metrics.lecoq.io/maciejkurzak?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Europe%2FWarsaw)
 
 
 
