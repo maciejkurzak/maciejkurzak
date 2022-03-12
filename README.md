@@ -16,7 +16,10 @@
   
   
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=maciejkurzak&count_private=true&show_icons=true&theme=github_dark"/> <img src="https://metrics.lecoq.io/maciejkurzak?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Europe%2FWarsaw"/>
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=maciejkurzak&count_private=true&show_icons=true&theme=github_dark"/>
+  <img src="https://metrics.lecoq.io/maciejkurzak?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Europe%2FWarsaw"/>
+</div>
 
 
 
