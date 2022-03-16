@@ -5,7 +5,7 @@
 
 <h1 align="center">🎨 Design</h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma"/>
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma,blender,autocad"/>
 <div>
   
 <h1 align="center">🔧 Development</h1>
