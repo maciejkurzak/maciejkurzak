@@ -3,15 +3,15 @@
 
 <b>I'm Maciej</b> - front-end developer, designer and technical high school student. I'm interested in all creative work, GTA V RolePlay and automotive enthusiast.</p>
 
-<h1 align="center">🎨 Design</h1>
-<div align="center">
+<h1 align="left">🎨 Design</h1>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma,blender,autocad"/>
 <div>
   
-<h1 align="center">🔧 Development</h1>
+<h1 align="left">🔧 Development</h1>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,jquery,docker,git,react,vue,lua,php,mysql,svg,linux"/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,jquery,docker,git,react,vue,express,mysql,mongodb,svg,linux"/>
 <div>
   
   
