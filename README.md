@@ -1,4 +1,4 @@
-# <<img src="https://user-images.githubusercontent.com/29491322/158017321-2eb04161-6400-4eea-938b-ed201b42345c.gif" width="30px">Hello, World! />
+# <<img src="https://user-images.githubusercontent.com/29491322/158017321-2eb04161-6400-4eea-938b-ed201b42345c.gif" height="30px">Hello, World! />
 
 
 <b>I'm Maciej</b> - front-end developer, designer and technical high school student. I'm interested in all creative work, GTA V RolePlay and automotive enthusiast.</p>
