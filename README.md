@@ -12,7 +12,7 @@
 <h1 align="left">🔧 Development</h1>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,jquery,docker,git,react,vue,express,mysql,mongodb,svg,linux"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,jquery,docker,git,react,astro,nextjs,vue,express,electron,mysql,mongodb,svg,linux"/>
 <div>
   
   
