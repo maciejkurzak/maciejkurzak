@@ -4,15 +4,17 @@
 <b>I'm Maciej</b> - Junior Frontend Developer with a passion for building web applications using modern technologies such as TypeScript and React that loves creativity and problem-solving involved in web development, constantly striving to improve skills and learn new things.
 </p>
 
+<!--
 <h1 align="left">🎨 Design</h1>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma,blender,autocad"/>
 <div>
-  
-<h1 align="left">🔧 Development</h1>
+-->
+
+<h1 align="left">🔧 Technologies</h1>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,jquery,docker,git,react,astro,nextjs,vue,express,electron,mysql,mongodb,svg,linux"/>
+  <img src="https://skillicons.dev/icons?i=ts,sass,docker,git,react,astro,nextjs,vue,nodejs,express,electron,mysql,mongodb,svg"/>
 <div>
   
   
