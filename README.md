@@ -1,7 +1,7 @@
 # <<img src="https://user-images.githubusercontent.com/29491322/158017321-2eb04161-6400-4eea-938b-ed201b42345c.gif" height="30px">Hello, World! />
 
 
-<b>I'm Maciej</b> - Junior Frontend Developer with a passion for building web applications using modern technologies such as TypeScript and React that loves creativity and problem-solving involved in web development, constantly striving to improve skills and learn new things.
+<b>I'm Maciej</b> - Frontend Developer with a passion for building web applications using modern technologies such as TypeScript and React that loves creativity and problem-solving involved in web development, constantly striving to improve skills and learn new things.
 </p>
 
 <!--
